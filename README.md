@@ -2,9 +2,9 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Arquitetura de Sistemas Distribuídos`
+`DISCIPLINA: Projeto - Pesquisa e Experimentação em Sistemas de Informação`
 
-`SEMESTRE: 6º`
+`SEMESTRE: 7º`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
