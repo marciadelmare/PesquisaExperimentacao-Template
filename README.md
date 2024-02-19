@@ -26,7 +26,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 | Etapa         | Atividades |
 |  :----:   | ----------- |
 | ETAPA 1         |[Documentação de Contexto e levantamento dos dados](docs/contexto.md) <br> |
-| ETAPA 2         |[Conhecendo os dados](docs/backend-apis.md) <br> |
+| ETAPA 2         |[Conhecendo os dados](docs/conhecendo-dados.md) <br> |
 | ETAPA 3         |[Preparação dos dados, construção e avaliação dos modelos propostos](docs/frontend-web.md) |
 | ETAPA 4        |[Implantação e apresentação da solução](docs/frontend-mobile.md) <br>  |
 
