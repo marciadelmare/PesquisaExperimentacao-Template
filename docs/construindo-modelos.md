@@ -4,36 +4,35 @@ Nesta etapa, deverão ser descritas todas as técnicas utilizadas para pré-proc
 
 Algumas das etapas podem estar relacionadas à:
 
-> Limpeza de Dados: 
-  > Trate valores ausentes: decida como lidar com dados faltantes, seja removendo linhas, preenchendo com médias, medianas ou usando métodos mais avançados.
-  > Remova _outliers_: identifique e trate valores que se desviam significativamente da maioria dos dados.
+* Limpeza de Dados: 
+  a) Trate valores ausentes: decida como lidar com dados faltantes, seja removendo linhas, preenchendo com médias, medianas ou usando métodos mais avançados.
+  b) Remova _outliers_: identifique e trate valores que se desviam significativamente da maioria dos dados.
 
-> Transformação de Dados:
-  > Normalize/padronize: torne os dados comparáveis, normalizando ou padronizando os valores para uma escala específica.
-  > Codifique variáveis categóricas: converta variáveis categóricas em uma forma numérica, usando técnicas como _one-hot encoding_.
+* Transformação de Dados:
+  a) Normalize/padronize: torne os dados comparáveis, normalizando ou padronizando os valores para uma escala específica.
+  b) Codifique variáveis categóricas: converta variáveis categóricas em uma forma numérica, usando técnicas como _one-hot encoding_.
 
-> Feature Engineering:
+* _Feature Engineering_:
+  a) Crie novas variáveis que possam ser mais informativas para o modelo.
+  b) Selecione características relevantes e descarte as menos importantes.
 
-Crie novas variáveis que possam ser mais informativas para o modelo.
-Selecione características relevantes e descarte as menos importantes.
-Tratamento de Dados Desbalanceados:
+* Tratamento de dados desbalanceados:
+  a) Se as classes de interesse forem desbalanceadas, considere técnicas como _oversampling_, _undersampling_ ou o uso de algoritmos que lidam naturalmente com desbalanceamento.
 
-Se as classes de interesse forem desbalanceadas, considere técnicas como oversampling, undersampling ou o uso de algoritmos que lidam naturalmente com desbalanceamento.
-Separação de Dados:
+* Separação de dados:
+  a) Divida os dados em conjuntos de treinamento, validação e teste para avaliar o desempenho do modelo de maneira adequada.
+  
+* Manuseio de Dados Temporais:
+  a) Se lidar com dados temporais, considere a ordenação adequada e técnicas específicas para esse tipo de dado.
+  
+* Redução de Dimensionalidade:
+  a) Aplique técnicas como PCA (Análise de Componentes Principais) se a dimensionalidade dos dados for muito alta.
 
-Divida os dados em conjuntos de treinamento, validação e teste para avaliar o desempenho do modelo de maneira adequada.
-Manuseio de Dados Temporais:
+* Validação Cruzada:
+  a) Utilize validação cruzada para avaliar o desempenho do modelo de forma mais robusta.
 
-Se lidar com dados temporais, considere a ordenação adequada e técnicas específicas para esse tipo de dado.
-Redução de Dimensionalidade:
-
-Aplique técnicas como PCA (Análise de Componentes Principais) se a dimensionalidade dos dados for muito alta.
-Validação Cruzada:
-
-Utilize validação cruzada para avaliar o desempenho do modelo de forma mais robusta.
-Monitoramento Contínuo:
-
-Atualize e adapte o pré-processamento conforme necessário ao longo do tempo, especialmente se os dados ou as condições do problema mudarem.
+* Monitoramento Contínuo:
+  Atualize e adapte o pré-processamento conforme necessário ao longo do tempo, especialmente se os dados ou as condições do problema mudarem.
 
 # Descrição dos modelos
 
