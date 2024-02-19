@@ -73,3 +73,6 @@ Nesta seção, você deverá estruturar o seu Canvas Analítico. O Canvas Analí
 > **Links Úteis**:
 > - [Modelo do Canvas Analítico](https://github.com/ICEI-PUC-Minas-PMV-SI/PesquisaExperimentacao-Template/blob/main/help/Software-Analtics-Canvas-v1.0.pdf)
 
+# Referências
+
+Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
