@@ -25,11 +25,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1         |[Documentação de Contexto](docs/contexto.md) <br> |
-| ETAPA 2         |[Planejar, desenvolver e gerenciar APIs e Web Services](docs/backend-apis.md) <br> |
-| ETAPA 3         |[Planejar, desenvolver e gerenciar uma aplicação Web](docs/frontend-web.md) |
-| ETAPA 4        |[Planejar, desenvolver e gerenciar uma aplicação Móvel](docs/frontend-mobile.md) <br>  |
-| ETAPA 5         | [Apresentação](presentation/README.md) |
+| ETAPA 1         |[Documentação de Contexto e levantamento dos dados](docs/contexto.md) <br> |
+| ETAPA 2         |[Conhecendo os dados](docs/backend-apis.md) <br> |
+| ETAPA 3         |[Preparação dos dados, construção e avaliação dos modelos propostos](docs/frontend-web.md) |
+| ETAPA 4        |[Implantação e apresentação da solução](docs/frontend-mobile.md) <br>  |
+
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
