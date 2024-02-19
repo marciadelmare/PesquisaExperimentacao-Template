@@ -22,69 +22,26 @@ Algumas das etapas podem estar relacionadas à:
 
 * Monitoramento Contínuo: atualize e adapte o pré-processamento conforme necessário ao longo do tempo, especialmente se os dados ou as condições do problema mudarem.
 
-A qualidade dos dados e a eficácia do pré-processamento desempenham um papel fundamental no sucesso de modelo(s) de aprendizado de máquina. É importante entender o contexto do problema e ajustar as etapas de preparação de dados de acordo com as necessidades específicas de cada projeto.
+* Entre outras....
+
+Avalie quais etapas são importantes para o contexto dos dados que você está trabalhando, pois a qualidade dos dados e a eficácia do pré-processamento desempenham um papel fundamental no sucesso de modelo(s) de aprendizado de máquina. É importante entender o contexto do problema e ajustar as etapas de preparação de dados de acordo com as necessidades específicas de cada projeto.
 
 # Descrição dos modelos
 
-## Arquitetura
+Nesta seção, conhecendo os dados e de posse dos dados preparados, é hora de descrever os algoritmos de aprendizado de máquina selecionados para a construção dos modelos propostos. Inclua informações abrangentes sobre cada algoritmo implementado, aborde conceitos fundamentais, princípios de funcionamento, vantagens/limitações e justifique a escolha de cada um dos algoritmos. 
 
-[Descrição da arquitetura das aplicação móvel, incluindo os componentes e suas interações.]
+Explore aspectos específicos, como o ajuste dos parâmetros livres de cada algoritmo. Lembre-se de experimentar parâmetros diferntes e principalmente, de justificar as escolhas realizadas.
 
-## Modelagem da Aplicação
-[Descreva a modelagem da aplicação, incluindo a estrutura de dados, diagramas de classes ou entidades, e outras representações visuais relevantes.]
+# Avaliação dos modelos criados
 
-## Projeto da Interface
-[Descreva o projeto da interface móvel da aplicação, incluindo o design visual, layout das páginas, interações do usuário e outros aspectos relevantes.]
+## Métricas utilizadas
 
-### Wireframes
-[Inclua os wireframes das páginas principais da interface, mostrando a disposição dos elementos na página.]
+Nesta seção, as métricas utilizadas para avaliar os modelos desenvolvidos deverão ser apresentadas (p. ex.: acurácia, precisão, recall, F1-Score, MSE etc.). A escolha de cada métrica deverá ser justificada, pois esta escolha é essencial para avaliar de forma mais assertiva a qualidade do modelo construído. 
 
-### Design Visual
-[Descreva o estilo visual da interface, incluindo paleta de cores, tipografia, ícones e outros elementos gráficos.]
+## Discussão dos resultados obtidos
 
-### Layout Responsivo
-[Discuta como a interface será adaptada para diferentes tamanhos de tela e dispositivos.]
+Nesta seção, discuta os resultados obtidos pelos modelos construídos, no contexto prático em que os dados se inserem, promovendo uma compreensão abrangente e aprofundada da qualidade de cada um deles. Lembre-se de relacionar os resultados obtidos ao problema identificado, a questão de pesquisa levantada e estabelecendo relação com os objetivos previamente propostos. 
 
-### Interações do Usuário
-[Descreva as interações do usuário na interface, como animações, transições entre páginas e outras interações.]
+# Pipeline de pesquisa e análise de dados
 
-## Fluxo de Dados
-
-[Diagrama ou descrição do fluxo de dados na aplicação.]
-
-## Requisitos Funcionais
-
-[Liste os principais requisitos funcionais da aplicação.]
-
-## Requisitos Não Funcionais
-
-[Liste os principais requisitos não funcionais da aplicação, como desempenho, segurança, escalabilidade, etc.]
-
-
-## Considerações de Segurança
-
-[Discuta as considerações de segurança relevantes para a aplicação distribuída, como autenticação, autorização, proteção contra ataques, etc.]
-
-## Implantação
-
-[Instruções para implantar a aplicação distribuída em um ambiente de produção.]
-
-1. Defina os requisitos de hardware e software necessários para implantar a aplicação em um ambiente de produção.
-2. Escolha uma plataforma de hospedagem adequada, como um provedor de nuvem ou um servidor dedicado.
-3. Configure o ambiente de implantação, incluindo a instalação de dependências e configuração de variáveis de ambiente.
-4. Faça o deploy da aplicação no ambiente escolhido, seguindo as instruções específicas da plataforma de hospedagem.
-5. Realize testes para garantir que a aplicação esteja funcionando corretamente no ambiente de produção.
-
-## Testes
-
-[Descreva a estratégia de teste, incluindo os tipos de teste a serem realizados (unitários, integração, carga, etc.) e as ferramentas a serem utilizadas.]
-
-1. Crie casos de teste para cobrir todos os requisitos funcionais e não funcionais da aplicação.
-2. Implemente testes unitários para testar unidades individuais de código, como funções e classes.
-3. Realize testes de integração para verificar a interação correta entre os componentes da aplicação.
-4. Execute testes de carga para avaliar o desempenho da aplicação sob carga significativa.
-5. Utilize ferramentas de teste adequadas, como frameworks de teste e ferramentas de automação de teste, para agilizar o processo de teste.
-
-# Referências
-
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
+Em pesquisa e experimentação em sistemas de informação, um pipeline de pesquisa e análise de dados refere-se a um conjunto organizado de processos e etapas que um profissional segue para realizar a coleta, preparação, análise e interpretação de dados durante a fase de pesquisa e desenvolvimento de modelos. Esse pipeline é essencial para extrair _insights_ significativos, entender a natureza dos dados e, construir modelos de aprendizado de máquina eficazes. 
