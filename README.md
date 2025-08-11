@@ -32,7 +32,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Acesso em Produção (quando disponível)
+* URL: https://<seu-dominio>/...
+* Status: online/homologação
 
 # Código
 
