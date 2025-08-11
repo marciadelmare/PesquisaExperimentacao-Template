@@ -65,9 +65,15 @@ Indique:
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que poderão se beneficiar com a sua investigação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Nesta seção, descreva quem poderá se beneficiar com a sua investigação, apresentando os diferentes perfis de pessoas ou grupos impactados.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O objetivo aqui não é definir clientes específicos ou papéis exatos dentro da aplicação, mas sim compreender o perfil dos usuários e partes interessadas. Para isso, considere:
+* Conhecimentos prévios relacionados ao domínio do problema e ao uso de tecnologia;
+* Nível de familiaridade com recursos digitais e possíveis barreiras de uso;
+* Contexto profissional e hierárquico, quando aplicável (ex.: nível de decisão, responsabilidades, área de atuação);
+* Necessidades e expectativas que podem ser atendidas pelo projeto.
+
+**Dica:** Seja objetivo e baseie suas descrições em informações reais ou plausíveis para o contexto escolhido. Isso ajudará a manter o foco no desenvolvimento de soluções relevantes e aplicáveis.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
@@ -77,7 +83,35 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 
 ## Estado da arte
 
-Nesta seção, deverão ser descritas outras abordagens identificadas na literatura que foram utilizadas para resolver problemas similares ao problema em questão. Para isso, faça uma pesquisa detalhada e identifique, no mínimo, 5 trabalhos que tenham utilizado dados em contexto similares e então: (a) detalhe e contextualize o problema a ser solucionado no trabalho, (b) descreva as principais características do _dataset_ utilizado, (c) detalhe quais abordagens/algoritmos foram utilizados (e seus parâmetros), (d) identifique as métricas de avaliação empregadas, e (e) fale sobre os resultados obtidos. 
+Nesta seção, descreva abordagens da literatura que tratam problemas semelhantes ao seu. Seu objetivo é comparar criticamente métodos, dados, métricas e resultados — e evidenciar lacunas que justificam seu projeto.
+
+### O que levantar (mín. 5 trabalhos)
+Para cada estudo encontrado, registre de forma objetiva:
+* Problema e contexto: que problema o trabalho buscou resolver e em qual domínio/ cenário foi aplicado.
+* Dados (dataset): origem, tamanho, período, variáveis/atributos, pré-processamentos relevantes (faltantes, balanceamento, normalização).
+* Abordagem/algoritmos: métodos utilizados e parâmetros principais (quando informados).
+* Métricas de avaliação: quais e por quê (ex.: Acurácia, F1, AUC, RMSE, MAE, etc.).
+* Resultados: principais números, comparações internas, limitações citadas e conclusões.
+
+**Dica:** Prefira artigos dos últimos 5 anos ou referências clássicas indispensáveis.
+
+### Ferramentas inteligentes permitidas
+Você pode utilizar: Perplexity, SciSpace, Elicit, Research Rabbit, Litmaps.
+Use-as para descoberta, organização e triagem de literatura. 
+
+**Atenção:** 
+* Sempre acesse a fonte original (PDF/artigo) antes de citar; verifique números e conclusões.
+* Registre DOI/URL oficial e dados bibliográficos completos.
+* Evite “alucinações” das ferramentas: desconfie de referências sem DOI ou que você não consiga localizar oficialmente.
+* Use as ferramentas inteligentes para mapear redes de citação (Research Rabbit), mapas de tópicos (Litmaps), filtrar por período e gerar resumos iniciais (Perplexity/SciSpace/Elicit).
+* Baixe e leia os PDFs mais promissores; descarte duplicatas e estudos fora de escopo.
+
+**Entregáveis desta seção**
+* Tabela comparativa (obrigatória).
+* Texto-síntese crítico (2–4 parágrafos) respondendo:
+- O que os estudos concordam? Onde divergem?
+- Quais lacunas permanecem (dados, métricas, cenários, limitações técnicas/éticas)?
+- Como seu projeto avança frente ao estado da arte (novos dados, pipeline, métrica, contexto real, implantação, etc.)?
 
 > **Links Úteis**:
 > - [Google Scholar](https://scholar.google.com/)
