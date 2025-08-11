@@ -93,6 +93,12 @@ Para cada estudo encontrado, registre de forma objetiva:
 * Métricas de avaliação: quais e por quê (ex.: Acurácia, F1, AUC, RMSE, MAE, etc.).
 * Resultados: principais números, comparações internas, limitações citadas e conclusões.
 
+**Fechamento do estado da arte **
+* Texto-síntese crítico (2–4 parágrafos) respondendo:
+- O que os estudos concordam? Onde divergem?
+- Quais lacunas permanecem (dados, métricas, cenários, limitações técnicas/éticas)?
+- Como seu projeto se alinha aos estudos identificados?
+
 **Dica:** Prefira artigos dos últimos 5 anos ou referências clássicas indispensáveis.
 
 ### Ferramentas inteligentes permitidas
@@ -104,14 +110,7 @@ Use-as para descoberta, organização e triagem de literatura.
 * Registre DOI/URL oficial e dados bibliográficos completos.
 * Evite “alucinações” das ferramentas: desconfie de referências sem DOI ou que você não consiga localizar oficialmente.
 * Use as ferramentas inteligentes para mapear redes de citação (Research Rabbit), mapas de tópicos (Litmaps), filtrar por período e gerar resumos iniciais (Perplexity/SciSpace/Elicit).
-* Baixe e leia os PDFs mais promissores; descarte duplicatas e estudos fora de escopo.
-
-**Entregáveis desta seção**
-* Tabela comparativa (obrigatória).
-* Texto-síntese crítico (2–4 parágrafos) respondendo:
-- O que os estudos concordam? Onde divergem?
-- Quais lacunas permanecem (dados, métricas, cenários, limitações técnicas/éticas)?
-- Como seu projeto avança frente ao estado da arte (novos dados, pipeline, métrica, contexto real, implantação, etc.)?
+* Leia os trabalhos mais promissores e descarte estudos fora de escopo.
 
 > **Links Úteis**:
 > - [Google Scholar](https://scholar.google.com/)
