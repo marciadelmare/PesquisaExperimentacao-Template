@@ -1,14 +1,14 @@
 # Implantação da solução
 
-Nesta seção, a implantação da solução proposta em nuvem deverá ser realizada e detalhadamente descrita. Além disso, deverá ser descrito também, o planejamento da capacidade operacional através da modelagem matemática e da simulação do sistema computacional.
-
-Após a implantação, realize testes que mostrem o correto funcionamento da aplicação.
+Nesta etapa, deverá ser realizada e descrita **em detalhes** toda a implantação da solução em ambiente de computação em nuvem, incluindo o planejamento da capacidade operacional com base em modelagem matemática e simulação do sistema, a escolha e configuração do provedor de nuvem, o empacotamento e publicação da aplicação, bem como os testes que comprovem seu correto funcionamento.
 
 # Apresentação da solução
 
-Nesta seção, um vídeo de, no máximo, 10 minutos onde deverá ser descrito o escopo todo do projeto, um resumo do trabalho desenvolvido, incluindo a comprovação de que o _deploy_ foi realizado e, as conclusões alcançadas.
+Nesta seção, deve ser produzido um vídeo de até 15 minutos apresentando o escopo geral do projeto, um resumo das etapas desenvolvidas, a demonstração da solução publicada e as conclusões finais, destacando aprendizados, impacto e possibilidades de melhorias.
 
-# Atualização do arquivo citation.cff no read.me
+# Não esquecer de: 
+* Atualizar o arquivo CITATION.cff disponível no diretório raiz do repositório
+* Atualizar as "Instruções de utilização" no arquivo read.me
 
 
 
