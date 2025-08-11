@@ -86,14 +86,13 @@ O objetivo aqui não é definir clientes específicos ou papéis exatos dentro d
 Nesta seção, descreva abordagens da literatura que tratam problemas semelhantes ao seu. Seu objetivo é comparar criticamente métodos, dados, métricas e resultados — e evidenciar lacunas que justificam seu projeto.
 
 ### O que levantar (mínimo 5 trabalhos)
-Para cada estudo encontrado, registre de forma objetiva:
+Para **cada estudo encontrado** aderente à temática do grupo, registre de forma objetiva:
 * Problema e contexto: que problema o trabalho buscou resolver e em qual domínio/cenário foi aplicado.
 * Dados (dataset): origem, tamanho, período, variáveis/atributos, pré-processamentos relevantes (faltantes, balanceamento, normalização).
 * Abordagem/algoritmos: algoritmos utilizados e parâmetros principais (quando informados).
 * Métricas de avaliação: quais e por quê (ex.: Acurácia, F1, AUC, RMSE, MAE, etc.).
 * Resultados: principais números, comparações internas, limitações citadas e conclusões.
 
-**Fechamento do estado da arte **
 * Texto-síntese crítico (2–4 parágrafos) respondendo:
 - O que os estudos concordam? Onde divergem?
 - Quais lacunas permanecem (dados, métricas, cenários, limitações técnicas/éticas)?
