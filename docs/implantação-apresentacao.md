@@ -8,4 +8,7 @@ Após a implantação, realize testes que mostrem o correto funcionamento da apl
 
 Nesta seção, um vídeo de, no máximo, 10 minutos onde deverá ser descrito o escopo todo do projeto, um resumo do trabalho desenvolvido, incluindo a comprovação de que o _deploy_ foi realizado e, as conclusões alcançadas.
 
+# Atualização do arquivo citation.cff no read.me
+
+
 
