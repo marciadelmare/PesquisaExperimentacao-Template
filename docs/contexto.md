@@ -83,7 +83,7 @@ O objetivo aqui não é definir clientes específicos ou papéis exatos dentro d
 
 ## Estado da arte
 
-Nesta seção, descreva abordagens da literatura que tratam problemas semelhantes ao seu. Seu objetivo é comparar criticamente métodos, dados, métricas e resultados — e evidenciar lacunas que justificam seu projeto.
+Nesta seção, descreva abordagens da literatura que tratam problemas semelhantes ao seu. Seu objetivo é documentar métodos, dados, métricas e resultados.
 
 ### O que levantar (mínimo 5 trabalhos)
 Para **cada estudo encontrado** aderente à temática do grupo, registre de forma objetiva:
